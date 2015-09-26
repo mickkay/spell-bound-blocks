@@ -1,0 +1,17 @@
+[
+{
+  "modid": "mickkay.SpellBoundBlocks",
+  "name": "SpellBoundBlocks",
+  "description": "Magically protects individual blocks from griefing by assigning a block protection spell",
+  "version": "1.8-0.4.0",
+  "mcversion": "1.8",
+  "logoFile": "assets/SpellBoundBlocks/logo.png",
+  "url": "http://www.minecraftforum.net/topic/########-",
+  "updateUrl": "",
+  "authors": ["MickKay"],
+  "credits": "Created by MickKay",
+  "parent": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
